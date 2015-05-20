@@ -1,0 +1,1 @@
+!function(e){"object"==typeof module&&module&&"object"==typeof module.exports?(module.exports=jQuery,e.jQuery=e.$=jQuery):(e.jQuery=e.$=jQuery,"function"==typeof define&&define("jquery/jquery-cmd",[],function(){return jQuery}))}(window);

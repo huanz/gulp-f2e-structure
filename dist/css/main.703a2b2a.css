@@ -1,0 +1,13 @@
+body{
+	margin: 0;
+}
+
+img{
+	border: 0;
+}
+
+.load{
+	width: 16px;
+	height: 16px;
+	background: url(../images/loading.029f107f.gif) no-repeat;
+}
